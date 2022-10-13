@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- * Description: prints "\"with proper grammar,
- *  but the outcome is a piece of art,"
- * Description: main - entry point
- * Description: return - returns 0
+ * main - Entry point
+ * My hello, printf task
+ * Return: return 1 after program execution
  */
 
 int main(void)

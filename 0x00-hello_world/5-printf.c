@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * Desscription: prints "\"with proper grammar,
+ * Description: prints "\"with proper grammar,
  *  but the outcome is a piece of art,"
- *  main - entry point
- *  Return - returns 0
+ * Description: main - entry point
+ * Description: return - returns 0
  */
 
 int main(void)

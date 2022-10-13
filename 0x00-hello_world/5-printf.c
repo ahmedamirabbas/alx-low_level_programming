@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * main: Entry point
  * Desscription: prints "\"with proper grammar,
  *  but the outcome is a piece of art,"
+ *  main - entry point
+ *  Return - returns 0
  */
 
 int main(void)

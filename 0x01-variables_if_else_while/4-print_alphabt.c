@@ -1,13 +1,16 @@
 #include <stdio.h>
 
 /**
+ *
  * main - Entry point
- * Return - Always 0 (success/Correct)
+ * 
+ * Return: Always 0 (success/Correct)
  */
 
 int main(void)
 {
 	char alpha;
+
 	for (alpha = 'a'; alpha <= 'z'; alpha++)
 	{
 		if (alpha == 'q')

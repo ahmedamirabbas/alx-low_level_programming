@@ -23,7 +23,7 @@ int main(void)
 
 				if ((left == 55) && (center == left + 1) && (right == center + 1))
 				{
-					breadk;
+					break;
 				}
 
 				putchar(',');

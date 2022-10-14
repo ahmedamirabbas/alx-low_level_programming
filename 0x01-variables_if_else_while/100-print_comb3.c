@@ -18,10 +18,10 @@ int main(void)
 			putchar(number_left);
 			putchar (number_right);
 
-			if ((number_right != '8' || number_left != '9')
+			if (number_right != '8' || number_left != '9')
 			{
 			putchar(',');
-			putchar (' ');
+			putchar(' ');
 			}
 
 		}

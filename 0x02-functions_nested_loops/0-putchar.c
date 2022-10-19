@@ -2,10 +2,7 @@
 
 /*
  * main - Entry point
- *
- * Description: prints _putchar followed by a new line
- *
- * return: returns 0 (success/correct)
+ * Return: nothing, return void
  */
 
 int main(void)

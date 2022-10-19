@@ -2,12 +2,11 @@
 
 /**
  * _islower - checks for lower case char
- * c: contains value to be compared
+ * @c: contains value to be compared
  * Return: always 0
  */
 
-int _islower(int c);
-
+int _islower(int c)
 {
 	if (c > 'a' && c < 'z')
 	{

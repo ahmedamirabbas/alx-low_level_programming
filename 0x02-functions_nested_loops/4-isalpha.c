@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _islower - checks if c is a letter
- * c: contains value to be compared
+ * _isalpha - checks if c is a letter
+ * @c: contains value to be compared
  * Return: always 0
  */
 

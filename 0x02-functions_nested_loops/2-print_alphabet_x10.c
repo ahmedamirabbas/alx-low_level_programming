@@ -21,7 +21,7 @@ void print_alphabet_x10(void)
 		}
 
 
-	        count++;
+		        count++;
 
 		_putchar('\n');
 	}

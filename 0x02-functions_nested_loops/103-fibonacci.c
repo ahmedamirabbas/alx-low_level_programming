@@ -1,4 +1,4 @@
-#include <stdio/h>
+#include <stdio.h>
 
 /**
  * main - prints sum of Fibonacci sequence up to 4M
